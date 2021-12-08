@@ -8,5 +8,5 @@ Begin by giving a brief description of your Milestone 3 project.  Share that thi
 
 Write a one-paragraph executive summary about your project including some background on your research question and stakeholders, information about your data and the model you chose to run and your conclusions.  
 
-Finally, clearly link to your project plan, data and slide deck.
+Finally, clearly link to your project plan, data and slide deck to make sure future employers can find those resources easily.
 
