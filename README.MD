@@ -10,3 +10,5 @@ Write a one-paragraph executive summary about your project including some backgr
 
 Finally, clearly link to your project plan, data and slide deck to make sure future employers can find those resources easily.
 
+For example, [here is the link to the Project Planning and Analysis Template](https://github.com/ChelseaMThrive/Milestone-3-Project/blob/main/Milestone_Project_3_Template.ipynb).
+
